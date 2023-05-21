@@ -1,0 +1,18 @@
+{
+    "name": "maximigonin/otys-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Maximigonin\\OtysComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "igonin-1993",
+            "email": "igonin-1993@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
